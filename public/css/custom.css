@@ -1,0 +1,139 @@
+
+.footer__one-widget-solution ul li a:hover {
+    color: var(--primary-color-2) !important;
+}
+
+.footer__one-widget-solution ul li a i {
+    color: var(--primary-color-2) !important;
+}
+
+.page__banner-content ul li {
+  color: var(--primary-color-2) !important;
+
+}
+
+.subtitle-one, .subtitle-two, .subtitle-three {
+  color: var(--primary-color-2) !important;
+}
+
+.about__company-left-experience {
+  background: var(--primary-color-2) !important;
+}
+
+.subtitle-one::after, .subtitle-two::after, .subtitle-three::after {
+  background: var(--primary-color-2) !important;
+}
+
+.subtitle-one::before, .subtitle-two::before, .subtitle-three::before {
+  background: var(--primary-color-2) !important;
+}
+
+.company__history-area-item-right-content-date span {
+  background: var(--primary-color-2) !important;
+}
+
+.company__history-area-items-left-content-date span {
+  background: var(--primary-color-2) !important;
+}
+
+
+.company__history-area-item-right-content::before {
+  background: var(--primary-color-2) !important;
+  box-shadow: 0px 5px 20px var(--primary-color-2) !important;
+}
+
+/* .company__history-area-item-right-content::after {
+  background: var(--primary-color-2) !important;
+  box-shadow: 0px 5px 20px var(--primary-color-2) !important;
+} */
+
+.company__history-area-items-left-content::before {
+  background: var(--primary-color-2) !important;
+  box-shadow: 0px 5px 20px var(--primary-color-2) !important;
+}
+
+/* .company__history-area-items-left-content::after {
+  background: var(--primary-color-2) !important;
+  box-shadow: 0px 5px 20px var(--primary-color-2) !important;
+} */
+
+.company__history-area-item-left {
+  border-right: 1px dashed var(--primary-color-2) !important;
+}
+.company__history-area-items-left {
+  border-right: 1px dashed var(--primary-color-2) !important;
+}
+
+.services__one-item:hover {
+  background: var(--primary-color-2) !important;
+  border-color: var(--primary-color-2) !important;
+}
+
+.cta__two-info-item-icon i {
+  color: var(--primary-color-2) !important;
+}
+
+.cta__two-info-item:hover .cta__two-info-item-icon i {
+  background: var(--primary-color-2) !important;
+  color: var(--text-white) !important;
+}
+
+.cta__two-info-item h6 a:hover {
+  color: var(--primary-color-2) !important;
+}
+
+.conbix__filter-button .active {
+  background: var(--primary-color-2) !important;
+  color: var(--text-white) !important;
+  border-color: var(--primary-color-2) !important;
+}
+
+.conbix__filter-button button:hover {
+  background: var(--primary-color-2) !important;
+  color: var(--primary-color-2) !important;
+  border-color: var(--primary-color-2) !important;
+}
+
+.project__one-item-icon a {
+  background: var(--primary-color-2) !important;
+}
+
+.project__one-item-content h4 a:hover {
+  color: var(--primary-color-2) !important;
+}
+
+.project__one-item-content::after {
+  background: var(--primary-color-2) !important;
+}
+
+.project__one-item-content::before {
+  background: var(--primary-color-2) !important;
+}
+
+.contact__four-info-icon {
+  background: var(--primary-color-2) !important;
+}
+
+.conbix-contact-item span {
+  color: var(--primary-color-2) !important;
+}
+
+input[type="text"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="password"]:focus,
+ input[type="search"]:focus, input[type="number"]:focus, input[type="tel"]:focus, input[type="range"]:focus,
+  input[type="date"]:focus, input[type="month"]:focus, input[type="week"]:focus, input[type="time"]:focus,
+   input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="color"]:focus, textarea:focus {
+  border-color: var(--primary-color-2) !important;
+}
+
+
+.contact__four-info-icon::after {
+  border: 1px dashed var(--primary-color-2) !important;
+}
+
+.custom-button:hover{
+border:1px solid var(--primary-color-2) !important;
+background-color: white !important;
+color: var(--primary-color-2) !important;
+}
+
+
