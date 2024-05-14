@@ -9,6 +9,7 @@
 
 <!-- Choose your prefered color scheme -->
 <link href="{{asset('assets/backend/css/light.css')}}" rel="stylesheet">
+<link href="{{asset('css/custom_back.css')}}" rel="stylesheet">
 <style>
     body {
         opacity: 0;
