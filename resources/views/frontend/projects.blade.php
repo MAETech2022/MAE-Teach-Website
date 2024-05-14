@@ -135,7 +135,7 @@
 
             <div class="col-xl-4 col-md-6 mt-30 corporate startup finance">
                 <div class="project__one-item">
-                    <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/rms.png')}}" alt="">
+                    <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/hr.png')}}" alt="">
                     <div class="project__one-item-content">
                         <!-- <span>Business Growth</span> -->
                         <h4><a href="project-single.html">Resource Management System</a></h4>
@@ -152,6 +152,68 @@
                     <div class="project__one-item-content">
                         <!-- <span>Business Growth</span> -->
                         <h4><a href="project-single.html">Digital and AI based disaster management solutions</a></h4>
+                    </div>
+                    <div class="project__one-item-icon">
+                        <a href="project-single.html"><i class="fal fa-long-arrow-up"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-4 col-md-6 mt-30 corporate startup finance">
+                <div class="project__one-item">
+                    <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/imaam_managment.png')}}" alt="">
+                    <div class="project__one-item-content">
+                        <!-- <span>Business Growth</span> -->
+                        <h4><a href="project-single.html">Imaam Managment System</a></h4>
+                    </div>
+                    <div class="project__one-item-icon">
+                        <a href="project-single.html"><i class="fal fa-long-arrow-up"></i></a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-4 col-md-6 mt-30 corporate startup finance">
+                <div class="project__one-item">
+                    <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/locum_tenens.png')}}" alt="">
+                    <div class="project__one-item-content">
+                        <!-- <span>Business Growth</span> -->
+                        <h4><a href="project-single.html">Locum Tenens</a></h4>
+                    </div>
+                    <div class="project__one-item-icon">
+                        <a href="project-single.html"><i class="fal fa-long-arrow-up"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6 mt-30 corporate startup finance">
+                <div class="project__one-item">
+                    <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/my_tutor.png')}}" alt="">
+                    <div class="project__one-item-content">
+                        <!-- <span>Business Growth</span> -->
+                        <h4><a href="project-single.html">My Tutor</a></h4>
+                    </div>
+                    <div class="project__one-item-icon">
+                        <a href="project-single.html"><i class="fal fa-long-arrow-up"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6 mt-30 corporate startup finance">
+                <div class="project__one-item">
+                    <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/portfolio_management.png')}}" alt="">
+                    <div class="project__one-item-content">
+                        <!-- <span>Business Growth</span> -->
+                        <h4><a href="project-single.html">Portfolio Management</a></h4>
+                    </div>
+                    <div class="project__one-item-icon">
+                        <a href="project-single.html"><i class="fal fa-long-arrow-up"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-md-6 mt-30 corporate startup finance">
+                <div class="project__one-item">
+                    <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/sales_crm.png')}}" alt="">
+                    <div class="project__one-item-content">
+                        <!-- <span>Business Growth</span> -->
+                        <h4><a href="project-single.html">Sales CRM</a></h4>
                     </div>
                     <div class="project__one-item-icon">
                         <a href="project-single.html"><i class="fal fa-long-arrow-up"></i></a>
