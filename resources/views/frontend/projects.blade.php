@@ -35,7 +35,7 @@
             </div>
         </div>
         <div class="row conbix__filter-active">
-            <div class="col-xl-4 col-md-6 mt-30">
+            <div class="col-xl-4 col-md-6 mt-30 finance">
                 <div class="project__one-item">
                     <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/lms.png')}}" alt="">
                     <div class="project__one-item-content">
@@ -71,7 +71,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-6 mt-30 marketing">
+            <div class="col-xl-4 col-md-6 mt-30 finance marketing">
                 <div class="project__one-item">
                     <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/task-tracking-system.png')}}" alt="">
                     <div class="project__one-item-content">
@@ -107,7 +107,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-6 mt-30 startup marketing">
+            <div class="col-xl-4 col-md-6 mt-30 corporate">
                 <div class="project__one-item">
                     <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/e-commerce.png')}}" alt="">
                     <div class="project__one-item-content">
@@ -120,7 +120,7 @@
                 </div>
             </div>
 
-            <div class="col-xl-4 col-md-6 mt-30 corporate startup finance">
+            <div class="col-xl-4 col-md-6 mt-30 marketing">
                 <div class="project__one-item">
                     <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/my-loader-app.png')}}" alt="">
                     <div class="project__one-item-content">
@@ -184,7 +184,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-6 mt-30 corporate startup finance">
+            <div class="col-xl-4 col-md-6 mt-30 marketing">
                 <div class="project__one-item">
                     <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/my_tutor.png')}}" alt="">
                     <div class="project__one-item-content">
