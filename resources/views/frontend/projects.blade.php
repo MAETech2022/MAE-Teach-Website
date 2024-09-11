@@ -83,18 +83,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-xl-4 col-md-6 mt-30 startup corporate">
-                <div class="project__one-item">
-                    <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/project-2.jpg')}}" alt="">
-                    <div class="project__one-item-content">
-                        <!-- <span>Business Growth</span> -->
-                        <h4><a href="project-single.html">Automation of Board Meetings</a></h4>
-                    </div>
-                    <div class="project__one-item-icon">
-                        <a href="project-single.html"><i class="fal fa-long-arrow-up"></i></a>
-                    </div>
-                </div>
-            </div>
+            
             <div class="col-xl-4 col-md-6 mt-30 finance">
                 <div class="project__one-item">
                     <img class="img__full" src="{{asset('assets/frontend/assets/img/portfolio/co-working-space.png')}}" alt="">
